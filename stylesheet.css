@@ -76,7 +76,7 @@ h2 ul {
   padding: 5px;
   margin: 9px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
-  flex-basis: 0;
+  flex-wrap: wrap;
 }
 
 .informations div p {
