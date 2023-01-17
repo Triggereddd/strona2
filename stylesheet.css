@@ -68,6 +68,7 @@ h2 ul {
   display: flex;
   flex-direction: row;
   margin: 5px;
+  justify-content: center;
 }
 
 .informations div {
@@ -77,6 +78,7 @@ h2 ul {
   margin: 9px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
   flex-wrap: wrap;
+  
 }
 
 .informations div p {
